@@ -4,6 +4,6 @@ def element_at(my_list, idx):
         return None
 
     for k, i in enumerate(my_list):
-        if (k == idx):
-            return (i)
+        if k == idx:
+            return i
 

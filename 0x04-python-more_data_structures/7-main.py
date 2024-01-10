@@ -16,22 +16,3 @@ print_sorted_dictionary(new_dict)
 print("--")
 print_sorted_dictionary(a_dictionary)
 
-guillaume@ubuntu:~/0x04$ ./7-main.py
-language: Python
-number: 89
-track: Low level
---
-language: Python
-number: 89
-track: Low level
---
---
-city: San Francisco
-language: Python
-number: 89
-track: Low level
---
-city: San Francisco
-language: Python
-number: 89
-track: Low level

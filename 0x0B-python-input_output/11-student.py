@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 class Student:
     """Represent a student."""
 
